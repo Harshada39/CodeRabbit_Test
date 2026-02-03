@@ -1,4 +1,9 @@
 def calculator():
+    """
+    Display a simple calculator operation menu to standard output.
+    
+    Prints a header and a numbered list of the four basic arithmetic operations (Add, Subtract, Multiply, Divide).
+    """
     print("Simple Calculator")
     print("Choose operation:")
     print("1. Add (+)")
